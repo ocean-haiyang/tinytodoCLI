@@ -12,9 +12,9 @@ RESET_COLOR = '\033[0m'
 
 # Cute cat ASCII art (fixed escape sequence)
 CAT_ART = r"""
-  /\_/\
- ( o.o )
-  > ^ <
+  /\_/\   /\_/\   /\_/\
+ ( o.o ) ( o.o ) ( o.o )
+  > ^ <   > ^ <   > ^ <
 """
 
 def load_data():
